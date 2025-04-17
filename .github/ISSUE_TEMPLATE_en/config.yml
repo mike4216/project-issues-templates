@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: English Templates
+    url: https://github.com/mike4216/project-issues-templates/tree/main/.github/ISSUE_TEMPLATE_en
+    about: Use English issue templates

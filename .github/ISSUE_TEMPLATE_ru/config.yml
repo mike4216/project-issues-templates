@@ -1,0 +1,5 @@
+blank_issues_enabled: false  # Запретить создание Issues без шаблона
+contact_links:
+  - name: Русские шаблоны
+    url: hhttps://github.com/mike4216/project-issues-templates/tree/main/.github/ISSUE_TEMPLATE_ru
+    about: Используйте шаблоны на русском
